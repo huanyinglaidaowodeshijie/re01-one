@@ -1,0 +1,35 @@
+ <head>
+    <div style="
+      background-color: #f1f1f1;
+      text-align: center;
+      padding: 40px;
+      ">
+      <img src='Macintosh HD/用户/songxvdong/文稿/文件/个人照片/个人logo/logo.jpg' alt="宋旭东" widch="80px" height="80px">
+    </div>
+    <div style="
+    max-width: 700px;
+    margin: 30px auto;
+    padding:15px;
+    line-height: 1.7;
+    ">
+      <p>个人简介；
+        宋旭东
+      </p>
+      <p>我的网站</p>
+      <p>我的网站</p>
+      <p>我的网站</p>
+      <p>我的网站</p>
+      <p>我的网站</p>
+      <p>我的网站</p>
+      <p>我的网站</p>
+    </div>
+    <div style="
+      background-color: #f1f1f1;
+      text-align:center;
+      padding: 12px;
+    ">
+      <p>本网站由个人所有，网站内容由个人所有请勿搬用！</p>
+      <a href="https://space.bilibili.com/1453252203?spm_id_from=333.1007.0.0">我的B站</a>
+      </div>
+  </body>
+</html>
